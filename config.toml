@@ -1,0 +1,5 @@
+
+baseURL = "https://ecobabyguides.com/"
+languageCode = "en-us"
+title = "Eco Baby Guides"
+theme = "ananke"

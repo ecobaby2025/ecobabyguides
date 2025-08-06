@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Eco Baby Guides</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Eco Baby Guides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 7 Eco-Friendly Baby Products Every New Parent Should Try in 2025</title>
+      <link>http://localhost:1313/posts/eco-friendly-products/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/eco-friendly-products/</guid>
+      <description>&lt;p&gt;Raising a baby sustainably is easier than ever with eco-friendly products that are gentle on your baby and the planet&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
